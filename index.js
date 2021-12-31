@@ -1,7 +1,7 @@
 
 var num=20;
 
-if(num<20 || num>20) {
+if(num<20 && num>20) {
     console.log("unqualified") 
 }
 
